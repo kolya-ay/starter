@@ -1,8 +1,10 @@
 ---
 layout: blog
 category: blog
-published: false
-title: ""
+published: true
+title: Untitled
+tags: 
+  - bananas
 ---
 
 ## A New Post
